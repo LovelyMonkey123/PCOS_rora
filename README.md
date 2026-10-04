@@ -96,7 +96,7 @@ present (or created by `os.mkdir` as in the scripts).
 
 ## Data availability
 
-- Raw and processed scRNA-seq data of this study: [GEO accession to be added].
+- Raw and processed scRNA-seq data of this study: [GSE268919](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268919).
 - External validation datasets: [GSE240688](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240688)
   and [GSE98595](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98595).
 
