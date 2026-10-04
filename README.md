@@ -1,8 +1,8 @@
 # Single-cell transcriptomic analysis of granulosa cells in a mouse PCOS model
 
 Analysis code accompanying our manuscript on single-cell dissection of granulosa
-cell (GC) heterogeneity in polycystic ovary syndrome (PCOS), identifying and
-experimentally validating ***Rora*** as a key regulator of GC state transitions.
+cell (GC) heterogeneity in polycystic ovary syndrome (PCOS), identifying
+***Rora*** as a key regulator of GC state transitions.
 
 ## Overview
 
